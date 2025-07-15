@@ -1,2 +1,7 @@
 data/raw/
 *.zip
+# macOS Finder junk
+.DS_Store
+
+# any virtual-env folders
+.venv*/
